@@ -11,7 +11,7 @@ order: 4
 
 如果您有任何问题或建议，欢迎通过以下方式与我联系：
 
-- GMail: [mailto:shenromain@gmail.com](mailto:shenromain@gmail.com)
+- GMail: [shenromain@gmail.com](mailto:shenromain@gmail.com)
 - Twitter/X: [https://twitter.com/romainshen](https://twitter.com/romainshen)
 - RSS: [https://romainshen.github.io/feed.xml](https://romainshen.github.io/feed.xml)
 
